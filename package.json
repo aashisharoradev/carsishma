@@ -1,0 +1,23 @@
+{
+  "name": "carsishma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashisharoradev/carsishma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashisharoradev/carsishma/issues"
+  },
+  "homepage": "https://github.com/aashisharoradev/carsishma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
